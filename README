@@ -1,0 +1,3 @@
+udev rules for base48 related machinery
+
+Put to /etc/udev/rules.d/
