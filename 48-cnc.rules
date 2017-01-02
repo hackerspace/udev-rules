@@ -1,0 +1,2 @@
+# /dev/cnc Shapeoko
+SUBSYSTEM=="tty", ATTRS{serial}=="1001101EAE2A9C4652B939C5F5001E81", MODE="0660", GROUP="plugdev", SYMLINK="cnc"

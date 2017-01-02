@@ -1,0 +1,2 @@
+# /dev/ols Open Logic Sniffer
+SUBSYSTEM=="tty", ATTRS{product}=="Logic Sniffer CDC-232", MODE="0660", GROUP="plugdev", SYMLINK="ols"

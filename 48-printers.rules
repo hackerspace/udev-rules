@@ -1,0 +1,2 @@
+# /dev/mk Kossel Mini
+SUBSYSTEM=="tty", ATTRS{serial}=="1100A01CAFB484074F930FA5F5001E40", MODE="0660", GROUP="dialout", SYMLINK="mk"
