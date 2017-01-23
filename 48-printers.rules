@@ -1,2 +1,4 @@
 # /dev/mk Kossel Mini
 SUBSYSTEM=="tty", ATTRS{serial}=="1100A01CAFB484074F930FA5F5001E40", MODE="0660", GROUP="dialout", SYMLINK="mk"
+# /dev/taz TAZ 4
+SUBSYSTEM=="tty", ATTRS{serial}=="740353034303511102B1", MODE="0660", GROUP="dialout", SYMLINK="taz"
